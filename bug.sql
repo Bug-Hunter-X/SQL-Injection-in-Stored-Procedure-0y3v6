@@ -1,0 +1,1 @@
+SQL injection vulnerability in a stored procedure. The stored procedure uses dynamic SQL to construct a query based on user input without proper sanitization, allowing an attacker to inject malicious SQL code and potentially compromise the database.
